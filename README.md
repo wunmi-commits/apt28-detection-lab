@@ -55,3 +55,9 @@ behaviours in a real environment yet.
 
 - TryHackMe Eviction room
 - MITRE ATT&CK page for APT28 (G0007)
+
+- ---
+
+Author: Wunmi Adam.        
+Project: APT28 Detection Lab — TryHackMe Eviction.            
+Focus: Cybersecurity | Detection Engineering | Threat Analysis | Defensive Security
